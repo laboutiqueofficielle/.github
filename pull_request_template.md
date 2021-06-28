@@ -1,18 +1,13 @@
+# Résumé du travail réalisé
+
+
+
 # Impacts
 
-[ ] Service Order
-[ ] Service Mailer
-[ ] Service User
-[ ] Service Product
-[ ] Service Utility
 [ ] Legacy
-
-[ ] API-Front
-[ ] API-Back
-[ ] SDK
-[ ] Frontend
 [ ] Back-Office
+[ ] SDK
+[ ] Documentation
 
 # Procédure de test
 
-...
